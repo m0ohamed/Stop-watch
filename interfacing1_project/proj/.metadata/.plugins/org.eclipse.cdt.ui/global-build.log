@@ -1,0 +1,837 @@
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5406 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5406 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5388 bytes (16.4% Full)
+(.text + .data + .bootloader)
+
+Data:         14 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5374 bytes (16.4% Full)
+(.text + .data + .bootloader)
+
+Data:         14 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5394 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         14 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../Porj.c: In function 'main':
+../Porj.c:94: error: called object 'Init()' is not a function
+make: *** [Porj.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5412 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         14 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5412 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         14 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5412 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         14 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5442 bytes (16.6% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5442 bytes (16.6% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5564 bytes (17.0% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5564 bytes (17.0% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5564 bytes (17.0% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5522 bytes (16.9% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5798 bytes (17.7% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5418 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5418 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5500 bytes (16.8% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5496 bytes (16.8% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5384 bytes (16.4% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5410 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5412 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5412 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5412 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5402 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+??:??:?? **** Incremental Build of configuration Debug for project Porj ****
+make all 
+Building file: ../Porj.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=1000000UL -MMD -MP -MF"Porj.d" -MT"Porj.o" -c -o "Porj.o" "../Porj.c"
+In file included from ../Porj.c:3:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Porj.c
+ 
+Building target: Porj.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Porj.map -mmcu=atmega32 -o "Porj.elf"  ./Porj.o   
+Finished building target: Porj.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Porj.elf  >"Porj.lss"
+Finished building: Porj.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Porj.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    5410 bytes (16.5% Full)
+(.text + .data + .bootloader)
+
+Data:         15 bytes (0.7% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
